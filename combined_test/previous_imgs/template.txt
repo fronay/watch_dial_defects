@@ -1,0 +1,11 @@
+580,198,398,28,general_roi
+358,212,246,104,general_roi
+210,340,110,264,general_roi
+172,570,48,430,general_roi
+230,748,82,630,general_roi
+364,910,234,782,general_roi
+540,950,424,844,general_roi
+772,908,584,780,general_roi
+892,788,756,634,general_roi
+938,578,820,432,general_roi
+884,356,778,232,general_roi

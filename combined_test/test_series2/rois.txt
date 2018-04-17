@@ -1,0 +1,14 @@
+552,222,408,58,general_roi
+352,260,226,118,general_roi
+252,378,90,260,general_roi
+130,586,26,418,general_roi
+230,750,76,604,general_roi
+370,886,210,738,general_roi
+536,934,380,778,general_roi
+712,884,558,730,general_roi
+858,768,710,622,general_roi
+930,602,764,428,general_roi
+876,398,708,234,general_roi
+718,276,580,102,general_roi
+526,420,362,280,background
+654,698,456,558,background
